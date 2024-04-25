@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NthAyXk15CcQMDB6BuPN+1mwbQLU/zRWvInBVftth66bQ3jiDlIYL9HevE0/KfkbK2xwWiAywMHR+NlkDUue9A==",
+  "success": true,
+  "projectFilePath": "C:\\ReportMigrator\\ConsoleApps\\ReadQVSFile\\ReadQVSFile\\ReadQVSFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.17.0\\microsoft.identitymodel.jsonwebtokens.6.17.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\microsoft.identitymodel.logging\\6.17.0\\microsoft.identitymodel.logging.6.17.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.17.0\\microsoft.identitymodel.tokens.6.17.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\qliksense.netsdk\\16.7.0\\qliksense.netsdk.16.7.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\qliksenserestclient\\1.16.0\\qliksenserestclient.1.16.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.17.0\\system.identitymodel.tokens.jwt.6.17.0.nupkg.sha512",
+    "C:\\Users\\Anshu.Kumari\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
